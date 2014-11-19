@@ -1,0 +1,93 @@
+<div class="row" ng-show="mostraAdmin">
+    <div class="col-md-3 sidebar" id="menulaterale">
+        <ul class="nav nav-sidebar" id="opzionimenu">
+            <li><a href="#/home"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+            <li><a href="#/creaRelatore">Censire un Relatore</a></li>
+            <li><a href="#/creaEvento">Censire un Evento</a></li>
+            <li class="active"><a href="#/eventiFuturi">Visualizza Eventi Futuri</a></li>
+            <li><a href="#/eventiPassati">Visualizza Eventi Passati</a></li>                    
+            <li class="nav-divider"></li>
+            <li><a ng-click="logout()"><span class="glyphicon glyphicon-log-out"></span>Logout</a></li>
+        </ul>
+    </div>
+    <div class="col-md-9 col-md-offset-3">
+        <h1>Lista eventi futuri</h1>
+        <table class="table table-bordered">
+            <thead class="centrato">
+            <tr>
+                <th>Titolo</th>
+                <th>Descrizione</th>
+                <th>Location</th>
+                <th>Data di inizio</th>
+                <th>Data di fine</th>
+                <th>Relatore</th>
+                <th>Visualizza partecipanti</th>       
+            </thead>    
+            <tr ng-repeat="eventoFuturo in eventiFuturi">
+                <td>{{eventoFuturo.titolo}}</td>
+                <td>{{eventoFuturo.descrizione}}</td>
+                <td>{{eventoFuturo.location}}</td>
+                <td>{{eventoFuturo.dataInizio | date: 'dd/MM/yyyy hh:mm'}}</td>
+                <td>{{eventoFuturo.dataFine | date: 'dd/MM/yyyy hh:mm'}}</td>
+                <td>{{eventoFuturo.relatore.nome}} {{eventoFuturo.relatore.cognome}}</td>
+                <td class="centrato"><a><img ng-click="listaPartecipanti(eventoFuturo.idEvento)" class="lista" src="img/lista.png" /></a></td>
+            </tr> 
+        </table>
+        <div class="errorlungo"ng-show="mostraFuturi">{{messaggio}}</div>
+        <div ng-show="mostraTable">
+        <h1>Lista partecipanti</h1>
+        <table class="table table-bordered">
+            <thead>
+            <tr>
+                <th>Username</th>
+                <th>Profilo</th>
+            </tr>
+            </thead>    
+            <tr ng-repeat="utentePartecipante in listaPartecipanti">
+                <td>{{utentePartecipante.username}}</td>
+                <td>{{utentePartecipante.profilo}}</td>
+            </tr> 
+        </table>
+        <div ng-show="mostraPartecipanti" class="errorlungo">{{messaggio}}</div>
+        </div>
+    </div>
+</div>
+<div class="row" ng-hide="mostraAdmin">
+    <div class="col-md-3 sidebar" id="menulaterale">
+        <ul class="nav nav-sidebar" id="opzionimenu">
+            <li><a href="#/home"><span class="glyphicon glyphicon-home"></span>Home</a></li> 
+            <li class="active"><a href="#/eventiFuturi">Visualizza Eventi Futuri</a></li>
+            <li><a href="#/eventiPassati">Visualizza Eventi Passati</a></li>                    
+            <li><a href="#/listaPrenotazioni">Annulla Iscrizione</a></li>
+            <li class="nav-divider"></li>
+            <li><a ng-click="logout()"><span class="glyphicon glyphicon-log-out"></span>Logout</a></li>
+        </ul>
+    </div>
+    <div class="col-md-9 col-md-offset-3">
+        <h1>Lista eventi futuri</h1>
+        <table class="table table-bordered">
+            <thead class="centrato">
+            <tr>
+                <th>Titolo</th>
+                <th>Descrizione</th>
+                <th>Location</th>
+                <th>Data di inizio</th>
+                <th>Data di fine</th>
+                <th>Relatore</th>
+                <th>Iscriviti</th>       
+            </thead>
+            <tr ng-repeat="eventoFuturo in eventiFuturi">
+                <td>{{eventoFuturo.titolo}}</td>
+                <td>{{eventoFuturo.descrizione}}</td>
+                <td>{{eventoFuturo.location}}</td>
+                <td>{{eventoFuturo.dataInizio | date: 'dd/MM/yyyy hh:mm'}}</td>
+                <td>{{eventoFuturo.dataFine | date: 'dd/MM/yyyy hh:mm'}}</td>
+                <td>{{eventoFuturo.relatore.nome}} {{eventoFuturo.relatore.cognome}}</td>
+                <td class="centrato"><a><img class="lista" ng-click="iscriviti(eventoFuturo.idEvento)" src="img/iscriviti.png" /></a></td>
+            </tr>
+        </table> 
+        <div class="errorlungo"ng-show="mostraFuturi">{{messaggio}}</div>
+        <div class="iscrizionesucc" ng-show="mostraIscritto">{{messaggio}}</div>
+        <div class="errorlungo" ng-show="mostraErrIscritto">{{messaggio}}</div>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+<div class="row" ng-show="mostraAdmin">
+    <div class="col-md-3 sidebar" id="menulaterale">
+        <ul class="nav nav-sidebar" id="opzionimenu">
+            <li class="active"><a href="#/home"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+            <li><a href="#/creaRelatore">Censire un Relatore</a></li>
+            <li><a href="#/creaEvento">Censire un Evento</a></li>
+            <li><a href="#/eventiFuturi">Visualizza Eventi Futuri</a></li>
+            <li><a href="#/eventiPassati">Visualizza Eventi Passati</a></li>                    
+            <li class="nav-divider"></li>
+            <li><a ng-click="logout()"><span class="glyphicon glyphicon-log-out"></span>Logout</a></li>
+        </ul>
+    </div>
+</div>
+<div class="row" ng-hide="mostraAdmin">
+    <div class="col-md-3 sidebar" id="menulaterale">
+        <ul class="nav nav-sidebar" id="opzionimenu">
+            <li class="active"><a href="#/home"><span class="glyphicon glyphicon-home"></span>Home</a></li> 
+            <li><a href="#/eventiFuturi">Visualizza Eventi Futuri</a></li>
+            <li><a href="#/eventiPassati">Visualizza Eventi Passati</a></li>                    
+            <li><a href="#/listaPrenotazioni">Annulla Iscrizione</a></li>
+            <li class="nav-divider"></li>
+            <li><a ng-click="logout()"><span class="glyphicon glyphicon-log-out"></span>Logout</a></li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,59 @@
+16750  [nio-8084-exec-2] DEBUG tioneeventi.web.AuthController  - admin loggato correttamente!
+24781  [io-8084-exec-68] DEBUG tioneeventi.web.AuthController  - marco loggato correttamente!
+35250  [io-8084-exec-69] ERROR oneeventi.web.EventoController  - Eccezione: null
+36953  [io-8084-exec-73] ERROR oneeventi.web.EventoController  - Eccezione: null
+40531  [io-8084-exec-74] ERROR oneeventi.web.EventoController  - Eccezione: null
+42672  [io-8084-exec-65] DEBUG oneeventi.web.EventoController  - marcoiscritto correttamento all'evento con id: 1
+46938  [io-8084-exec-70] DEBUG oneeventi.web.EventoController  - marcoha annullato correttamente l'iscrizione all'evento con id: 1
+48235  [io-8084-exec-72] DEBUG oneeventi.web.EventoController  - marcoha annullato correttamente l'iscrizione all'evento con id: 2
+32484  [io-8084-exec-86] DEBUG tioneeventi.web.AuthController  - admin loggato correttamente!
+30672  [o-8084-exec-106] DEBUG tioneeventi.web.AuthController  - admin loggato correttamente!
+212094 [o-8084-exec-109] DEBUG venti.web.CreaEventoController  - Evento{idEvento=4, titolo=sadasdsdsd, descrizione=sdsdsd, location=sdsd, dataInizio=Wed Nov 12 10:10:00 CET 2014, dataFine=Wed Nov 12 12:10:00 CET 2014, relatore=it.cspnet.gestioneeventi.model.Relatore@2a9, utentiPartecipanti=[]} creato correttamente!
+29719  [o-8084-exec-111] DEBUG tioneeventi.web.AuthController  - admin loggato correttamente!
+15953  [nio-8084-exec-5] DEBUG tioneeventi.web.AuthController  - marco loggato correttamente!
+28078  [io-8084-exec-31] ERROR tioneeventi.web.AuthController  - Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+57391  [io-8084-exec-25] ERROR tioneeventi.web.AuthController  - Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+-341594 [io-8084-exec-17] ERROR tioneeventi.web.AuthController  - Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+21391  [nio-8084-exec-9] ERROR tioneeventi.web.AuthController  - Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+17187  [io-8084-exec-28] DEBUG tioneeventi.web.AuthController  - marco loggato correttamente!
+18781  [io-8084-exec-10] ERROR tioneeventi.web.AuthController  - Eccezione: null
+140953 [io-8084-exec-28] DEBUG tioneeventi.web.AuthController  - admin loggato correttamente!
+964032 [io-8084-exec-30] DEBUG tioneeventi.web.AuthController  - admin loggato correttamente!
+37109  [io-8084-exec-32] ERROR tioneeventi.web.AuthController  - Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+30719  [io-8084-exec-49] ERROR tioneeventi.web.AuthController  - Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+91953  [io-8084-exec-77] ERROR tioneeventi.web.AuthController  - Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+28515  [io-8084-exec-85] ERROR tioneeventi.web.AuthController  - Eccezione: not-null property references a null or transient value : it.cspnet.gestioneeventi.model.Utente.confermato; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : it.cspnet.gestioneeventi.model.Utente.confermato
+33063  [o-8084-exec-114] ERROR tioneeventi.web.AuthController  - Eccezione: not-null property references a null or transient value : it.cspnet.gestioneeventi.model.Utente.confermato; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : it.cspnet.gestioneeventi.model.Utente.confermato
+61157  [io-8084-exec-13] ERROR tioneeventi.web.AuthController  - Eccezione: null
+70750  [io-8084-exec-28] ERROR tioneeventi.web.AuthController  - Eccezione: null
+32000  [io-8084-exec-15] DEBUG tioneeventi.web.AuthController  - marco loggato correttamente!
+59953  [io-8084-exec-44] DEBUG tioneeventi.web.AuthController  - gino loggato correttamente!
+65343  [io-8084-exec-33] DEBUG tioneeventi.web.AuthController  - admin loggato correttamente!

@@ -1,0 +1,1309 @@
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+admin loggato correttamente!
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+marco loggato correttamente!
+Eccezione: null
+Eccezione: null
+Eccezione: null
+marcoiscritto correttamento all'evento con id: 1
+marcoha annullato correttamente l'iscrizione all'evento con id: 1
+marcoha annullato correttamente l'iscrizione all'evento con id: 2
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+admin loggato correttamente!
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+admin loggato correttamente!
+Evento{idEvento=4, titolo=sadasdsdsd, descrizione=sdsdsd, location=sdsd, dataInizio=Wed Nov 12 10:10:00 CET 2014, dataFine=Wed Nov 12 12:10:00 CET 2014, relatore=it.cspnet.gestioneeventi.model.Relatore@2a9, utentiPartecipanti=[]} creato correttamente!
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+admin loggato correttamente!
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+marco loggato correttamente!
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+marco loggato correttamente!
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000389: Unsuccessful: create table UTENTI (USERNAME varchar(20) not null, CONFERMATO varchar(2) DEFAULT 'no' not null, E-MAIL varchar(20) not null, PASSWORD varchar(20) not null, PROFILO varchar(20) DEFAULT 'user' not null, primary key (USERNAME)) ENGINE=InnoDB
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-MAIL varchar(20) not null,
+        PASSWORD varchar(20) not null,
+        PROFI' at line 4
+HHH000389: Unsuccessful: alter table PARTECIPANTI add constraint FK_pdigfmpr4e60qh9kx6te6w5fp foreign key (PARTECIPANTE) references UTENTI (USERNAME)
+Can't create table 'gestioneeventi_db.#sql-cc4_72' (errno: 150)
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000389: Unsuccessful: alter table PARTECIPANTI drop foreign key FK_pdigfmpr4e60qh9kx6te6w5fp
+Error on rename of '.\gestioneeventi_db\partecipanti' to '.\gestioneeventi_db\#sql2-cc4-74' (errno: 152)
+HHH000389: Unsuccessful: create table UTENTI (USERNAME varchar(20) not null, CONFERMATO varchar(2) DEFAULT 'no' not null, E-MAIL varchar(20) not null, PASSWORD varchar(20) not null, PROFILO varchar(20) DEFAULT 'user' not null, primary key (USERNAME)) ENGINE=InnoDB
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-MAIL varchar(20) not null,
+        PASSWORD varchar(20) not null,
+        PROFI' at line 4
+HHH000389: Unsuccessful: alter table PARTECIPANTI add constraint FK_pdigfmpr4e60qh9kx6te6w5fp foreign key (PARTECIPANTE) references UTENTI (USERNAME)
+Can't create table 'gestioneeventi_db.#sql-cc4_74' (errno: 150)
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000389: Unsuccessful: alter table PARTECIPANTI drop foreign key FK_pdigfmpr4e60qh9kx6te6w5fp
+Error on rename of '.\gestioneeventi_db\partecipanti' to '.\gestioneeventi_db\#sql2-cc4-76' (errno: 152)
+HHH000389: Unsuccessful: create table UTENTI (USERNAME varchar(20) not null, CONFERMATO varchar(2) DEFAULT 'no' not null, E-MAIL varchar(20) not null, PASSWORD varchar(20) not null, PROFILO varchar(20) DEFAULT 'user' not null, primary key (USERNAME)) ENGINE=InnoDB
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-MAIL varchar(20) not null,
+        PASSWORD varchar(20) not null,
+        PROFI' at line 4
+HHH000389: Unsuccessful: alter table PARTECIPANTI add constraint FK_pdigfmpr4e60qh9kx6te6w5fp foreign key (PARTECIPANTE) references UTENTI (USERNAME)
+Can't create table 'gestioneeventi_db.#sql-cc4_76' (errno: 150)
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000389: Unsuccessful: alter table PARTECIPANTI drop foreign key FK_pdigfmpr4e60qh9kx6te6w5fp
+Error on rename of '.\gestioneeventi_db\partecipanti' to '.\gestioneeventi_db\#sql2-cc4-78' (errno: 152)
+HHH000389: Unsuccessful: create table UTENTI (USERNAME varchar(20) not null, CONFERMATO varchar(2) DEFAULT 'no' not null, E-MAIL varchar(20) not null, PASSWORD varchar(20) not null, PROFILO varchar(20) DEFAULT 'user' not null, primary key (USERNAME)) ENGINE=InnoDB
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-MAIL varchar(20) not null,
+        PASSWORD varchar(20) not null,
+        PROFI' at line 4
+HHH000389: Unsuccessful: alter table PARTECIPANTI add constraint FK_pdigfmpr4e60qh9kx6te6w5fp foreign key (PARTECIPANTE) references UTENTI (USERNAME)
+Can't create table 'gestioneeventi_db.#sql-cc4_78' (errno: 150)
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000389: Unsuccessful: alter table PARTECIPANTI drop foreign key FK_pdigfmpr4e60qh9kx6te6w5fp
+Error on rename of '.\gestioneeventi_db\partecipanti' to '.\gestioneeventi_db\#sql2-cc4-7a' (errno: 152)
+HHH000389: Unsuccessful: create table UTENTI (USERNAME varchar(20) not null, CONFERMATO varchar(2) DEFAULT 'no' not null, E-MAIL varchar(20) not null, PASSWORD varchar(20) not null, PROFILO varchar(20) DEFAULT 'user' not null, primary key (USERNAME)) ENGINE=InnoDB
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-MAIL varchar(20) not null,
+        PASSWORD varchar(20) not null,
+        PROFI' at line 4
+HHH000389: Unsuccessful: alter table PARTECIPANTI add constraint FK_pdigfmpr4e60qh9kx6te6w5fp foreign key (PARTECIPANTE) references UTENTI (USERNAME)
+Can't create table 'gestioneeventi_db.#sql-cc4_7a' (errno: 150)
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000389: Unsuccessful: alter table EVENTI drop foreign key FK_ry65ev9jrdlgkbvk8lgntc9af
+Table 'gestioneeventi_db.eventi' doesn't exist
+HHH000389: Unsuccessful: alter table PARTECIPANTI drop foreign key FK_pdigfmpr4e60qh9kx6te6w5fp
+Table 'gestioneeventi_db.partecipanti' doesn't exist
+HHH000389: Unsuccessful: alter table PARTECIPANTI drop foreign key FK_33moqj41j7eayw3b73p8f1lbt
+Table 'gestioneeventi_db.partecipanti' doesn't exist
+HHH000389: Unsuccessful: create table UTENTI (USERNAME varchar(20) not null, CONFERMATO varchar(2) DEFAULT 'no' not null, E-MAIL varchar(20) not null, PASSWORD varchar(20) not null, PROFILO varchar(20) DEFAULT 'user' not null, primary key (USERNAME)) ENGINE=InnoDB
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-MAIL varchar(20) not null,
+        PASSWORD varchar(20) not null,
+        PROFI' at line 4
+HHH000389: Unsuccessful: alter table PARTECIPANTI add constraint FK_pdigfmpr4e60qh9kx6te6w5fp foreign key (PARTECIPANTE) references UTENTI (USERNAME)
+Can't create table 'gestioneeventi_db.#sql-cc4_7c' (errno: 150)
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000389: Unsuccessful: alter table PARTECIPANTI drop foreign key FK_pdigfmpr4e60qh9kx6te6w5fp
+Error on rename of '.\gestioneeventi_db\partecipanti' to '.\gestioneeventi_db\#sql2-cc4-81' (errno: 152)
+HHH000389: Unsuccessful: create table UTENTI (USERNAME varchar(20) not null, CONFERMATO varchar(2) DEFAULT 'no' not null, E-MAIL varchar(20) not null, PASSWORD varchar(20) not null, PROFILO varchar(20) DEFAULT 'user' not null, primary key (USERNAME)) ENGINE=InnoDB
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-MAIL varchar(20) not null,
+        PASSWORD varchar(20) not null,
+        PROFI' at line 4
+HHH000389: Unsuccessful: alter table PARTECIPANTI add constraint FK_pdigfmpr4e60qh9kx6te6w5fp foreign key (PARTECIPANTE) references UTENTI (USERNAME)
+Can't create table 'gestioneeventi_db.#sql-cc4_81' (errno: 150)
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000389: Unsuccessful: alter table PARTECIPANTI drop foreign key FK_pdigfmpr4e60qh9kx6te6w5fp
+Error on rename of '.\gestioneeventi_db\partecipanti' to '.\gestioneeventi_db\#sql2-cc4-83' (errno: 152)
+HHH000389: Unsuccessful: create table UTENTI (USERNAME varchar(20) not null, CONFERMATO varchar(2) DEFAULT 'no' not null, E-MAIL varchar(20) not null, PASSWORD varchar(20) not null, PROFILO varchar(20) DEFAULT 'user' not null, primary key (USERNAME)) ENGINE=InnoDB
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-MAIL varchar(20) not null,
+        PASSWORD varchar(20) not null,
+        PROFI' at line 4
+HHH000389: Unsuccessful: alter table PARTECIPANTI add constraint FK_pdigfmpr4e60qh9kx6te6w5fp foreign key (PARTECIPANTE) references UTENTI (USERNAME)
+Can't create table 'gestioneeventi_db.#sql-cc4_83' (errno: 150)
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000389: Unsuccessful: alter table PARTECIPANTI drop foreign key FK_pdigfmpr4e60qh9kx6te6w5fp
+Error on rename of '.\gestioneeventi_db\partecipanti' to '.\gestioneeventi_db\#sql2-cc4-85' (errno: 152)
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000227: Running hbm2ddl schema export
+HHH000230: Schema export complete
+Eccezione: null
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+admin loggato correttamente!
+admin loggato correttamente!
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Eccezione: Mail server connection failed; nested exception is javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com. Failed messages: javax.mail.MessagingException: Unknown SMTP host: smtp.gamil.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gamil.com
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Eccezione: not-null property references a null or transient value : it.cspnet.gestioneeventi.model.Utente.confermato; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : it.cspnet.gestioneeventi.model.Utente.confermato
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Eccezione: not-null property references a null or transient value : it.cspnet.gestioneeventi.model.Utente.confermato; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : it.cspnet.gestioneeventi.model.Utente.confermato
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Eccezione: null
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+Eccezione: null
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+marco loggato correttamente!
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+gino loggato correttamente!
+admin loggato correttamente!
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000204: Processing PersistenceUnitInfo [
+	name: gestioneEventiPU
+	...]
+HHH000412: Hibernate Core {4.3.7.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000397: Using ASTQueryTranslatorFactory

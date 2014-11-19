@@ -1,0 +1,62 @@
+<div class="row" >
+    <div class="col-md-3 sidebar" id="menulaterale">
+        <ul class="nav nav-sidebar" id="opzionimenu">
+            <li><a href="#/home"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+            <li><a href="#/creaRelatore">Censire un Relatore</a></li>
+            <li class="active"><a href="#/creaEvento">Censire un Evento</a></li>
+            <li><a href="#/eventiFuturi">Visualizza Eventi Futuri</a></li>
+            <li><a href="#/eventiPassati">Visualizza Eventi Passati</a></li>                    
+            <li class="nav-divider"></li>
+            <li><a ng-click="logout()"><span class="glyphicon glyphicon-log-out"></span>Logout</a></li>
+        </ul>
+    </div>
+    <div class="col-md-9 col-md-offset-4">
+        <h1>Registra un Evento</h1>
+        <form class="form-horizontal">
+            <div class="form-group" ng-show="mostraRelatore">
+                <div class="alert alert-danger" role="alert"><strong>{{messaggio}}</strong></div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Titolo: </label>
+                <div class="col-sm-8">
+                    <input id="titolo" class="form-control" placeholder="titolo" ng-model="evento.titolo" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Descrizione: </label>
+                <div class="col-sm-8">
+                    <input id="descrizione" class="form-control" placeholder="descrizione" ng-model="evento.descrizione"/>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Location: </label>
+                <div class="col-sm-8">
+                    <input id="location" class="form-control" placeholder="location" ng-model="evento.location"/>
+                </div>   
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Data inizio: </label>
+                <div class="col-sm-8">
+                    <input id="dataInizio" type="datetime-local" class="form-control" placeholder="dd-MM-yyyy hh:mm" ng-model="evento.dataInizio"/>
+                </div>   
+            </div> 
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Data fine: </label>
+                <div class="col-sm-8">
+                    <input id="dataFine" type="datetime-local" class="form-control" placeholder="dd-MM-yyyy hh:mm" ng-model="evento.dataFine" />
+                </div>   
+            </div> 
+            <div class="form-group">
+                <div class="col-sm-offset-1 col-sm-11">
+                    <select class="form-control" ng-model="evento.relatore" ng-options="(relatore.nome + ' ' + relatore.cognome) for relatore in relatori" placeholder="seleziona relatore"></select>
+                </div>    
+            </div>
+            <div class="form-group">
+                <div class="col-sm-offset-9 col-sm-4">
+                    <button type="submit" class="btn btn-info" ng-click="creaEvento(evento);">Crea</button>
+                </div>
+            </div>   
+        </form>
+    </div>
+</div>
+
